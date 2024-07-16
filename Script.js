@@ -35,27 +35,27 @@
 //         $('.menu-btn i').toggleClass("active");
 //     });
 
-//     // Typed.js animation for typing text
-//     var typed1 = new Typed(".typing", {
-//         strings: ["Full-Stack Developer", "Back End Developer", "Java Developer", "Front End Developer", "Web Developer", "Software Engineer", "Software Developer"],
-//         typeSpeed: 100,
-//         backSpeed: 60,
-//         loop: true
-//     });
+    // Typed.js animation for typing text
+    var typed1 = new Typed(".typing", {
+        strings: ["Full-Stack Developer", "Back End Developer", "Java Developer", "Front End Developer", "Web Developer", "Software Engineer", "Software Developer"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
 
-//     var typed2 = new Typed(".typing-3", {
-//         strings: ["Connect with me on :)"],
-//         typeSpeed: 100,
-//         backSpeed: 60,
-//         loop: true
-//     });
+    var typed2 = new Typed(".typing-3", {
+        strings: ["Connect with me on :)"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
 
-//     var typed3 = new Typed(".typing-2", {
-//         strings: ["Full-Stack Developer", "Back End Developer", "Java Developer", "Front End Developer", "Web Developer", "Software Engineer", "Software Developer"],
-//         typeSpeed: 100,
-//         backSpeed: 60,
-//         loop: true
-//     });
+    var typed3 = new Typed(".typing-2", {
+        strings: ["Full-Stack Developer", "Back End Developer", "Java Developer", "Front End Developer", "Web Developer", "Software Engineer", "Software Developer"],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop: true
+    });
 
 //     // Smooth scroll and active link switching on scroll
 //     const sections = document.querySelectorAll('.page');
